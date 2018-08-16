@@ -1,0 +1,4 @@
+{
+    "name": "martins/terraform-aws-rds",
+    "type": "terraform-module"
+}
